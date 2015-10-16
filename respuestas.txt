@@ -1,3 +1,20 @@
 Respuestas a las preguntas de la practica 3
 
 El propósito de trabajar con múltiples ramas es el de poder modificar el contenido de la rama principal, sin afectar a lo archivos originales, y posteriormente si se está de acuerdo con nuevo s cambios en ramas añadirlos a la rama master. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La ventaja que tiene de hacer un rebase es que tienes una nueva confirmación en la rama master, pero además sigue almacenada la otra versión confirmada anteriormente sin perder nada.
